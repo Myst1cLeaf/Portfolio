@@ -19,6 +19,7 @@ function App() {
       <Contact />
       <ScrollToTop />
       <Footer />
+      <Analytics />
     </div>
   )
 }
